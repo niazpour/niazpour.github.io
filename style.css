@@ -1,0 +1,15 @@
+h1{
+color: white;
+}
+img {
+  border: 5px solid;
+  border-color: gold;
+  padding; 5px;
+  margin; 10px;}
+  h2 {color: gold;}
+  body {background-color: black;}
+  p {color: white;}
+  li {color: white;}
+  #twitter {color: lightblue;}
+  #google {color: red;}
+  #facebook {color: darkblue;}
